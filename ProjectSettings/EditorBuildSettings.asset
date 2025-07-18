@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0MenuScene.unity
+    guid: 9ee7309e9d1d4034ba398cd4b47e2568
+  - enabled: 1
+    path: Assets/Scenes/1NoWeedControl.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/2ControlPlot.unity
+    guid: 5edc3473ce3850f41b2c7deeadbe14a6
+  - enabled: 1
+    path: Assets/Scenes/3FertPlot.unity
+    guid: adb5addc0fbff794495a295511a28aea
+  - enabled: 1
+    path: Assets/Scenes/4jRainFed.unity
+    guid: 01c418b3e5bdb484baf2d797904231a3
+  - enabled: 1
+    path: Assets/Scenes/5Rain+Fert.unity
+    guid: caa5f42ce11f05245aa2a7d1a88f41f9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6e93c16dd1bcefc4aa35386e8add0b24, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dc7e38d840513d14b8bf1502cd7af068, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 59029ead33aaf9a4ab58068e9a5efb8d, type: 2}
+  m_UseUCBPForAssetBundles: 0

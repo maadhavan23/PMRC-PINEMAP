@@ -1,0 +1,5 @@
+C:/Users/warne/Documents/games/Maadhavan PMRC/.utmp/RelWithDebInfo/3z10686n/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/warne/Documents/games/Maadhavan PMRC/.utmp/RelWithDebInfo/3z10686n/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/warne/Documents/games/Maadhavan PMRC/.utmp/RelWithDebInfo/3z10686n/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/warne/Documents/games/Maadhavan PMRC/.utmp/RelWithDebInfo/3z10686n/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/warne/Documents/games/Maadhavan PMRC/.utmp/RelWithDebInfo/3z10686n/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
